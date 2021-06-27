@@ -1,6 +1,6 @@
 # Etcd Queue
 
-> 基于 https://github.com/etcd-io/etcd/tree/main/client/v3/experimental/recipes代码修改。
+> 基于 https://github.com/etcd-io/etcd/tree/main/client/v3/experimental/recipes 代码修改。
 
 Etcd Queue是基于Etcd集群做后端存储来实现任务队列的功能。
 
