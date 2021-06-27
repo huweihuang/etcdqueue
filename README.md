@@ -1,0 +1,2 @@
+# etcdqueue
+etcdqueue是一个基于etcd后端存储的任务队列
